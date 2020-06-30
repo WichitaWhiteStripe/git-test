@@ -8,4 +8,7 @@ public class gitest {
     public void test(){
         System.out.println("bbhsnbb");
     }
+    public void test1(){
+        System.out.println("another bb");
+    }
 }
