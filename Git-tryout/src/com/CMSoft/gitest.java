@@ -5,4 +5,7 @@ public class gitest {
         System.out.println("wysnbb");
         System.out.println("wysnbb");
     }
+    public void test(){
+        System.out.println("bbhsnbb");
+    }
 }
